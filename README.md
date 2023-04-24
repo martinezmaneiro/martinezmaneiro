@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @martinezmaneiro.
-- 👨‍💻 React Frontend Developer.
+- 👨‍💻 Frontend Developer.
 - 🌱 I’m currently learning React Native.
 - 📫 joaquinmar08@gmail.com
 - 👔 https://www.linkedin.com/in/joaquinmar08/
